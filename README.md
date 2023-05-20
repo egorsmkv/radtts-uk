@@ -33,7 +33,7 @@ https://github.com/egorsmkv/radtts-uk/assets/7875085/96d412b1-8977-48ed-93d0-6b7
 
 ## How to run?
 
-Clone the repository https://github.com/egorsmkv/radtts and the following command:
+Clone the repository https://github.com/egorsmkv/radtts and run the following command:
 
 ```
 python inference.py -c config.json -r models/model_dap_84000.pt -v hifigan.pt -k hifigan_config.json \
