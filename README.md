@@ -1,4 +1,4 @@
-# Ukrainian RADTTS/RADTTS++ and HiFiGAN model
+# Ukrainian RADTTS/RADTTS++ models and HiFiGAN model
 
 This repository contains links to models:
 
