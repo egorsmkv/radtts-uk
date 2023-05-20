@@ -16,3 +16,8 @@ These models have three voices:
 - Lada
 - Tetiana
 - Mykyta
+
+
+### Acknowledgement
+
+- Decoder model for RADTTS++ and Pretrained model for RADTTS++ with DAP config have been trained on the Cluster of Excellence UCU/Lang-uk.
