@@ -1,5 +1,7 @@
 # Ukrainian RADTTS/RADTTS++ models and HiFiGAN model
 
+- Join our Speech Synthesis Group in Telegram: https://t.me/speech_synthesis_uk
+
 This repository contains links to models:
 
 - Decoder model for RADTTS
