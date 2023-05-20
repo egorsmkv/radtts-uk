@@ -17,6 +17,9 @@ These models have three voices:
 - Tetiana
 - Mykyta
 
+## Download
+
+Dropbox link to all models: https://www.dropbox.com/scl/fo/0eoipxgk16o2cnw2ymba3/h?dl=0&rlkey=7trclhuzuo6xno5n06xg4z7gd
 
 ### Acknowledgement
 
