@@ -20,4 +20,5 @@ These models have three voices:
 
 ### Acknowledgement
 
-- Decoder model for RADTTS++ and Pretrained model for RADTTS++ with DAP config have been trained on the Cluster of Excellence UCU/Lang-uk.
+- Dmytro Chaplynskyi [@dchaplinsky](https://github.com/dchaplinsky)
+- Decoder model for RADTTS++ and Pretrained model for RADTTS++ with DAP config have been trained on the Cluster of Excellence UCU/[Lang-uk](https://github.com/lang-uk).
