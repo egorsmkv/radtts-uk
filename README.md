@@ -1,7 +1,10 @@
 # 🇺🇦 Ukrainian RADTTS/RADTTS++ models and HiFiGAN model
 
-- Join our Speech Synthesis Group in Telegram: https://t.me/speech_synthesis_uk
-- Donate: https://send.monobank.ua/jar/3Saxixsdua
+Join our Speech Synthesis Group in Telegram: https://t.me/speech_synthesis_uk
+
+Donate: https://send.monobank.ua/jar/3Saxixsdua
+
+## Overview
 
 This repository contains links to models:
 
