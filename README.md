@@ -21,9 +21,15 @@ These models have three voices:
 
 ### Lada
 
+https://github.com/egorsmkv/radtts-uk/assets/7875085/ee89bc98-f425-4533-9404-5124ddc8e92c
+
 ### Tetiana
 
+https://github.com/egorsmkv/radtts-uk/assets/7875085/88d29b0d-5f78-403d-be51-765444e53950
+
 ### Mykyta
+
+https://github.com/egorsmkv/radtts-uk/assets/7875085/96d412b1-8977-48ed-93d0-6b741d6014ba
 
 ## How to run?
 
