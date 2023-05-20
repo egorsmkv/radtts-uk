@@ -46,5 +46,5 @@ Dropbox link to all models: https://www.dropbox.com/scl/fo/0eoipxgk16o2cnw2ymba3
 
 ### Acknowledgement
 
-- Dmytro Chaplynskyi [@dchaplinsky](https://github.com/dchaplinsky)
+- Dmytro Chaplynskyi [@dchaplinsky](https://github.com/dchaplinsky): help with access to UCU's cluster
 - Decoder model for RADTTS++ and Pretrained model for RADTTS++ with DAP config have been trained on the Cluster of Excellence UCU/[Lang-uk](https://github.com/lang-uk).
